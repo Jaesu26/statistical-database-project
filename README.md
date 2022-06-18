@@ -66,3 +66,4 @@
 2. 김나현 기자. “꾸준히 감소하는 건강검진 수검률...20·30대 낙폭 최대.” 메디칼업저버. 2021년 10월5일. http://www.monews.co.kr/news/articleView.html?idxno=307502
 
 3. 빅데이터운영실 데이터관리1팀. “국민건강보험공단_건강검진정보.” 국민건강보험공단. 2021년 9월 29일. https://www.data.go.kr/data/15007122/fileData.do
+4. 
