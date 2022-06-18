@@ -8,4 +8,4 @@
 
 `1.` 공공데이터포털 국민건강보험공단 건강검진정보: https://www.data.go.kr/data/15007122/fileData.do
 
-![](hist.png)
+![](./Images/hist.png)
